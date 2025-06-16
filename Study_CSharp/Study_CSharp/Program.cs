@@ -13,4 +13,7 @@ Console.WriteLine(TEST);
 
 int a = 10;
 int b = 20;
+int c = 30;
+
+Console.WriteLine("a: {0}, b: {1}, c: {2}", a, b, c);       
 
