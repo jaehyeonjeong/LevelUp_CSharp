@@ -1,0 +1,15 @@
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\bin\Debug\net8.0\Study_CSharp.exe
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\bin\Debug\net8.0\Study_CSharp.deps.json
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\bin\Debug\net8.0\Study_CSharp.runtimeconfig.json
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\bin\Debug\net8.0\Study_CSharp.dll
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\bin\Debug\net8.0\Study_CSharp.pdb
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.AssemblyInfoInputs.cache
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.AssemblyInfo.cs
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.csproj.CoreCompileInputs.cache
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.sourcelink.json
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.dll
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\refint\Study_CSharp.dll
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.pdb
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\Study_CSharp.genruntimeconfig.cache
+D:\2025\Develop\Source\LevelUP_CSharp\Study_CSharp\Study_CSharp\obj\Debug\net8.0\ref\Study_CSharp.dll
