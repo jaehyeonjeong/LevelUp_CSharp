@@ -10,3 +10,7 @@ const string TEST = "abc";
 // 초기화 후 변경 시도 시 컴파일 오류 발생
 
 Console.WriteLine(TEST);
+
+int a = 10;
+int b = 20;
+
